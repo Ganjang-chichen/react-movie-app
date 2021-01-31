@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ganjang-chichen/react-movie-app/static/css/main.291a6952.chunk.css",
+    "main.js": "/Ganjang-chichen/react-movie-app/static/js/main.429ada0a.chunk.js",
+    "main.js.map": "/Ganjang-chichen/react-movie-app/static/js/main.429ada0a.chunk.js.map",
+    "runtime-main.js": "/Ganjang-chichen/react-movie-app/static/js/runtime-main.5af4649f.js",
+    "runtime-main.js.map": "/Ganjang-chichen/react-movie-app/static/js/runtime-main.5af4649f.js.map",
+    "static/js/2.b1a2b075.chunk.js": "/Ganjang-chichen/react-movie-app/static/js/2.b1a2b075.chunk.js",
+    "static/js/2.b1a2b075.chunk.js.map": "/Ganjang-chichen/react-movie-app/static/js/2.b1a2b075.chunk.js.map",
+    "index.html": "/Ganjang-chichen/react-movie-app/index.html",
+    "static/css/main.291a6952.chunk.css.map": "/Ganjang-chichen/react-movie-app/static/css/main.291a6952.chunk.css.map",
+    "static/js/2.b1a2b075.chunk.js.LICENSE.txt": "/Ganjang-chichen/react-movie-app/static/js/2.b1a2b075.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5af4649f.js",
+    "static/js/2.b1a2b075.chunk.js",
+    "static/css/main.291a6952.chunk.css",
+    "static/js/main.429ada0a.chunk.js"
+  ]
+}
