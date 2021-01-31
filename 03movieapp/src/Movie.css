@@ -1,0 +1,26 @@
+body {
+    background-color: antiquewhite;
+}
+
+.movies{
+    display: flex;
+    
+}
+
+.movie {
+    background-color: darkslategray;
+    height: 90vh;
+
+    margin: 5px;
+    border : black solid 3px;
+    
+}
+
+.genres {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.genres__genre{
+    margin: 10px;
+}
